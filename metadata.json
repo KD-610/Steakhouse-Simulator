@@ -1,0 +1,6 @@
+{
+  "name": "3D Et Restoranı - Steakhouse Tycoon",
+  "description": "Kendi lüks et restoranınızı ve ızgara krallığınızı yönettiğiniz, dekorasyon ve personel özellikli 3D simülasyon oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
